@@ -11,7 +11,7 @@
 #SBATCH --mem-bind=local
 
 
-TREE_QMC=/fs/cbcb-lab/ekmolloy/jdai123/vpg-study/software/TREE-QMC/build/tree-qmc
+TREE_QMC=/fs/cbcb-lab/ekmolloy/jdai123/network-cycle-sorting-study/software/TREE-QMC/build/tree-qmc
 
 GT=$1
 TOB=$2
